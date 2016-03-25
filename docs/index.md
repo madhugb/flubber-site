@@ -1,6 +1,7 @@
 #Flubber
 
-Flubber 2.0 is built from ground up, while keeping the same principles of 1.0
+[Flubber](https://github.com/madhugb/flubber) 2.0 is built from ground up, while keeping the same principles of 1.0
+
 
 ------
 ##Create project
