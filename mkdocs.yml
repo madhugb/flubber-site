@@ -1,0 +1,14 @@
+site_name: Flubber
+site_description: A PHP Framework
+site_author: Madhu G B <me@madhugb.com>
+markdown_extensions:
+    - smarty
+    - toc:
+        permalink: ' #'
+        separator: "~"
+    - sane_lists
+
+pages:
+  - Home: 'index.md'
+
+copyright: Copyright &copy; 2013-2016 Madhu G B <me@madhugb.com>
